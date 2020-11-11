@@ -12,4 +12,4 @@ after_success:
 notifications:
   email:
     recipients:
-      a.barquinpereira1@nuigalway.ie
+      - a.barquinpereira1@nuigalway.ie
