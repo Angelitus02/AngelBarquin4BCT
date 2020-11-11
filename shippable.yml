@@ -9,8 +9,7 @@ before_install:
 after_success:
   - mvn test
 
-
 notifications:
   email:
     recipients:
-      angelahkam@gmail.com
+      a.barquinpereira1@nuigalway.ie
