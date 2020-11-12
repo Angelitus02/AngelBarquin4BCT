@@ -13,3 +13,4 @@ notifications:
   email:
     recipients:
       - a.barquinpereira1@nuigalway.ie
+    on_success: always
