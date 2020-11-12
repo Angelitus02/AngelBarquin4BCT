@@ -34,7 +34,7 @@ public class Test {
 
         //assertEquals method, parameters: message of the error if it fails, expected result, method that yields result
         assertEquals("Wrong name", "Angel Barquin", student1.getName());
-        assertEquals("Wrong age", 267, student1.getAge());
+        assertEquals("Wrong age", 26, student1.getAge());
         assertEquals("Bad date of birth", "17/08/1994", student1.getDob());
         assertEquals("Invalid ID", 1234, student1.getId());
         assertEquals("Wrong username", "Angel Barquin26", student1.getUsername());
